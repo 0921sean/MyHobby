@@ -88,4 +88,4 @@ with open(penalty_file, "w") as file:
 formatted_total_penalty = f"{total_penalty:,}원"
 
 # Print the updated total penalty
-print(f"총 벌금: {formatted_total_penalty}")
+print(f"총금액: {formatted_total_penalty}")
